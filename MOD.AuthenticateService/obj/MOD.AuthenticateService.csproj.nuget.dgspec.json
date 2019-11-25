@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj": {}
+    "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj": {
+    "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj",
+        "projectUniqueName": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj",
         "projectName": "MOD.AuthenticateService",
-        "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\obj\\",
+        "projectPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj",
+        "packagesPath": "C:\\Users\\steff\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\steff\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {

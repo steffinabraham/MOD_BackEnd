@@ -10393,19 +10393,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {}
+    "C:\\Users\\steff\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.Test\\MOD.Test.csproj",
+      "projectUniqueName": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.Test\\MOD.Test.csproj",
       "projectName": "MOD.Test",
-      "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.Test\\MOD.Test.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.Test\\obj\\",
+      "projectPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.Test\\MOD.Test.csproj",
+      "packagesPath": "C:\\Users\\steff\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\steff\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10413,25 +10413,25 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://nuget.org/api/v2/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj": {
-              "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj"
+            "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj": {
+              "projectPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj"
             },
-            "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.PaymentService\\MOD.PaymentService.csproj": {
-              "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.PaymentService\\MOD.PaymentService.csproj"
+            "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.PaymentService\\MOD.PaymentService.csproj": {
+              "projectPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.PaymentService\\MOD.PaymentService.csproj"
             },
-            "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.TechnologyService\\MOD.TechnologyService.csproj": {
-              "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.TechnologyService\\MOD.TechnologyService.csproj"
+            "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.TechnologyService\\MOD.TechnologyService.csproj": {
+              "projectPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.TechnologyService\\MOD.TechnologyService.csproj"
             },
-            "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.TrainingService\\MOD.TrainingService.csproj": {
-              "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.TrainingService\\MOD.TrainingService.csproj"
+            "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.TrainingService\\MOD.TrainingService.csproj": {
+              "projectPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.TrainingService\\MOD.TrainingService.csproj"
             },
-            "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.UserService\\MOD.UserService.csproj": {
-              "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.UserService\\MOD.UserService.csproj"
+            "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.UserService\\MOD.UserService.csproj": {
+              "projectPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.UserService\\MOD.UserService.csproj"
             }
           }
         }
