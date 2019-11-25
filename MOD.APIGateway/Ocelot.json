@@ -1,0 +1,82 @@
+{
+  "ReRoutes": [
+    //----------------------------------TECHNOLOGY SERVICE
+    {
+      "DownstreamPathTemplate": "/api/Technology/{catchAll}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 51368
+        }
+      ],
+      "UpstreamPathTemplate": "/Technology/{catchAll}"
+
+    },
+
+    //----------------------------------TRAINING SERVICE
+
+    {
+      "DownstreamPathTemplate": "/api/Training/{catchAll}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 51371
+        }
+      ],
+      "UpstreamPathTemplate": "/Training/{catchAll}"
+
+    },
+
+    //----------------------------------USER SERVICE
+
+    {
+      "DownstreamPathTemplate": "/api/User/{catchAll}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 51350
+        }
+      ],
+      "UpstreamPathTemplate": "/User/{catchAll}"
+
+    },
+
+    //----------------------------------MENTOR SERVICE
+
+    {
+      "DownstreamPathTemplate": "/api/Mentor/{catchAll}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 51350
+        }
+      ],
+      "UpstreamPathTemplate": "/Mentor/{catchAll}"
+
+    },
+
+    //----------------------------------PAYMENT SERVICE
+
+    {
+      "DownstreamPathTemplate": "/api/Payment/{catchAll}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 51369
+        }
+      ],
+      "UpstreamPathTemplate": "/Payment/{catchAll}"
+
+    }
+
+
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:50075"
+  }
+}

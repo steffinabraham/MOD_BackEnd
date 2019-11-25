@@ -1,0 +1,116 @@
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Ocelot.json
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\MOD.APIGateway.exe
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\staticwebassets\MOD.APIGateway.StaticWebAssets.Manifest.cache
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\staticwebassets\MOD.APIGateway.StaticWebAssets.xml
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\MOD.APIGateway.deps.json
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\MOD.APIGateway.runtimeconfig.json
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\MOD.APIGateway.runtimeconfig.dev.json
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\MOD.APIGateway.dll
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\MOD.APIGateway.pdb
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\FluentValidation.dll
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Ocelot.dll
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.csproj.CopyComplete
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.dll
+C:\Users\Dell\Documents\GitHub\.Net_MOD\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.pdb
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Ocelot.json
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\MOD.APIGateway.exe
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\MOD.APIGateway.deps.json
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\MOD.APIGateway.runtimeconfig.json
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\MOD.APIGateway.runtimeconfig.dev.json
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\MOD.APIGateway.dll
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\MOD.APIGateway.pdb
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\FluentValidation.dll
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Ocelot.dll
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\staticwebassets\MOD.APIGateway.StaticWebAssets.Manifest.cache
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\staticwebassets\MOD.APIGateway.StaticWebAssets.xml
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.csproj.CopyComplete
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.dll
+C:\Users\Dell\Documents\GitHub\DotNet_MOD\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.pdb
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Ocelot.json
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\MOD.APIGateway.exe
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\MOD.APIGateway.deps.json
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\MOD.APIGateway.runtimeconfig.json
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\MOD.APIGateway.runtimeconfig.dev.json
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\MOD.APIGateway.dll
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\MOD.APIGateway.pdb
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\FluentValidation.dll
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Ocelot.dll
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.csprojAssemblyReference.cache
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\staticwebassets\MOD.APIGateway.StaticWebAssets.Manifest.cache
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\staticwebassets\MOD.APIGateway.StaticWebAssets.xml
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.AssemblyInfoInputs.cache
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.AssemblyInfo.cs
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.RazorTargetAssemblyInfo.cache
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.csproj.CopyComplete
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.dll
+C:\Users\steff\Documents\GitHub\DotnetTJ\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.pdb
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Ocelot.json
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\MOD.APIGateway.exe
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\MOD.APIGateway.deps.json
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\MOD.APIGateway.runtimeconfig.json
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\MOD.APIGateway.runtimeconfig.dev.json
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\MOD.APIGateway.dll
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\MOD.APIGateway.pdb
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\FluentValidation.dll
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\bin\Debug\netcoreapp3.0\Ocelot.dll
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\staticwebassets\MOD.APIGateway.StaticWebAssets.Manifest.cache
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\staticwebassets\MOD.APIGateway.StaticWebAssets.xml
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.csproj.CopyComplete
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.dll
+C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.APIGateway\obj\Debug\netcoreapp3.0\MOD.APIGateway.pdb
