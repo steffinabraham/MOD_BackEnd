@@ -8296,11 +8296,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.TechnologyService\\MOD.TechnologyService.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.TechnologyService\\MOD.TechnologyService.csproj",
       "projectName": "MOD.TechnologyService",
-      "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.TechnologyService\\MOD.TechnologyService.csproj",
+      "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.TechnologyService\\MOD.TechnologyService.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.TechnologyService\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.TechnologyService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

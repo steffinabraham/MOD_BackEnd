@@ -203,3 +203,8 @@ C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.T
 C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.Test\bin\Debug\netcoreapp3.0\MOD.UserService.pdb
 C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.Test\obj\Debug\netcoreapp3.0\MOD.Test.dll
 C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.Test\obj\Debug\netcoreapp3.0\MOD.Test.pdb
+C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.Test\obj\Debug\netcoreapp3.0\MOD.Test.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.Test\obj\Debug\netcoreapp3.0\MOD.Test.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.Test\obj\Debug\netcoreapp3.0\MOD.Test.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.Test\obj\Debug\netcoreapp3.0\MOD.Test.dll
+C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.Test\obj\Debug\netcoreapp3.0\MOD.Test.pdb

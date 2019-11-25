@@ -61,7 +61,7 @@ namespace MOD.TechnologyService.Controllers
             _repository.DeleteTechnology(id);
             return Ok();
         }
-        return
+       
   
             
     }

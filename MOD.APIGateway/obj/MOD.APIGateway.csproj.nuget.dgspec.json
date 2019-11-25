@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.APIGateway\\MOD.APIGateway.csproj": {}
+    "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.APIGateway\\MOD.APIGateway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.APIGateway\\MOD.APIGateway.csproj": {
+    "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.APIGateway\\MOD.APIGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.APIGateway\\MOD.APIGateway.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.APIGateway\\MOD.APIGateway.csproj",
         "projectName": "MOD.APIGateway",
-        "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.APIGateway\\MOD.APIGateway.csproj",
+        "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.APIGateway\\MOD.APIGateway.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.APIGateway\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.APIGateway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8896,11 +8896,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.UserService\\MOD.UserService.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.UserService\\MOD.UserService.csproj",
       "projectName": "MOD.UserService",
-      "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.UserService\\MOD.UserService.csproj",
+      "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.UserService\\MOD.UserService.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.UserService\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.UserService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

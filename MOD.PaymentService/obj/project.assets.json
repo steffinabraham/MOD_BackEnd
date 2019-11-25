@@ -8296,11 +8296,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.PaymentService\\MOD.PaymentService.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.PaymentService\\MOD.PaymentService.csproj",
       "projectName": "MOD.PaymentService",
-      "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.PaymentService\\MOD.PaymentService.csproj",
+      "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.PaymentService\\MOD.PaymentService.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.PaymentService\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.PaymentService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

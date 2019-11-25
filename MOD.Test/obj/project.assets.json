@@ -10398,11 +10398,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.Test\\MOD.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.Test\\MOD.Test.csproj",
       "projectName": "MOD.Test",
-      "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.Test\\MOD.Test.csproj",
+      "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.Test\\MOD.Test.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.Test\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10418,20 +10418,20 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj": {
-              "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj"
+            "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj"
             },
-            "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.PaymentService\\MOD.PaymentService.csproj": {
-              "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.PaymentService\\MOD.PaymentService.csproj"
+            "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.PaymentService\\MOD.PaymentService.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.PaymentService\\MOD.PaymentService.csproj"
             },
-            "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.TechnologyService\\MOD.TechnologyService.csproj": {
-              "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.TechnologyService\\MOD.TechnologyService.csproj"
+            "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.TechnologyService\\MOD.TechnologyService.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.TechnologyService\\MOD.TechnologyService.csproj"
             },
-            "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.TrainingService\\MOD.TrainingService.csproj": {
-              "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.TrainingService\\MOD.TrainingService.csproj"
+            "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.TrainingService\\MOD.TrainingService.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.TrainingService\\MOD.TrainingService.csproj"
             },
-            "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.UserService\\MOD.UserService.csproj": {
-              "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\Steffin Dotnet project\\DotnetTJ\\MOD_Backend\\MOD.UserService\\MOD.UserService.csproj"
+            "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.UserService\\MOD.UserService.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.UserService\\MOD.UserService.csproj"
             }
           }
         }
