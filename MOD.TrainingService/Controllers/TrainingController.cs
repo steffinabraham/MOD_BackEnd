@@ -27,6 +27,11 @@ namespace MOD.TrainingService.Controllers
             return new string[] { "value1", "value2" };
         }
 
+        public OkResult Put(Training item)
+        {
+            throw new NotImplementedException();
+        }
+
         //// GET: api/Training/5
         //[HttpGet("{id}", Name = "Get")]
         //public string Get(int id)
