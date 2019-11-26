@@ -651,7 +651,6 @@ C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.TrainingService\bin\Debug\netcore
 C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.TrainingService\obj\Debug\netcoreapp3.0\MOD.TrainingService.csprojAssemblyReference.cache
 C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.TrainingService\obj\Debug\netcoreapp3.0\staticwebassets\MOD.TrainingService.StaticWebAssets.Manifest.cache
 C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.TrainingService\obj\Debug\netcoreapp3.0\staticwebassets\MOD.TrainingService.StaticWebAssets.xml
-C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.TrainingService\obj\Debug\netcoreapp3.0\MOD.TrainingService.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.TrainingService\obj\Debug\netcoreapp3.0\MOD.TrainingService.AssemblyInfoInputs.cache
 C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.TrainingService\obj\Debug\netcoreapp3.0\MOD.TrainingService.AssemblyInfo.cs
 C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.TrainingService\obj\Debug\netcoreapp3.0\MOD.TrainingService.RazorTargetAssemblyInfo.cache
@@ -768,3 +767,4 @@ C:\Users\steff\Documents\GitHub\MOD_BackEnd\MOD.TrainingService\obj\Debug\netcor
 C:\Users\steff\Documents\GitHub\MOD_BackEnd\MOD.TrainingService\obj\Debug\netcoreapp3.0\MOD.TrainingService.csproj.CopyComplete
 C:\Users\steff\Documents\GitHub\MOD_BackEnd\MOD.TrainingService\obj\Debug\netcoreapp3.0\MOD.TrainingService.dll
 C:\Users\steff\Documents\GitHub\MOD_BackEnd\MOD.TrainingService\obj\Debug\netcoreapp3.0\MOD.TrainingService.pdb
+C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.TrainingService\obj\Debug\netcoreapp3.0\MOD.TrainingService.MvcApplicationPartsAssemblyInfo.cache

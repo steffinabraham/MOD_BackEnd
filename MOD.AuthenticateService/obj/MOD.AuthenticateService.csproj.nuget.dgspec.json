@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj": {}
+    "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj": {
+    "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj",
         "projectName": "MOD.AuthenticateService",
-        "projectPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj",
-        "packagesPath": "C:\\Users\\steff\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\obj\\",
+        "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\steff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://nuget.org/api/v2/": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
@@ -38,6 +38,10 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
             "Microsoft.AspNetCore.Cors": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -56,9 +60,21 @@
               "target": "Package",
               "version": "[3.0.0, )"
             },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.9.5, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.6.0, )"
             }
           },
           "imports": [

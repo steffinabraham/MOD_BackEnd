@@ -17,38 +17,92 @@ namespace MOD.UserService.Repository
         }
         public void AddMentor(Mentor item)
         {
-            _context.Mentor.Add(item);
-            _context.SaveChanges();
+            try
+            {
+                _context.Mentor.Add(item);
+                _context.SaveChanges();
+            }
+            catch(Exception)
+            {
+                throw;
+            }
+         
         }
 
         public void DeleteMentor(long id)
         {
+            try
+            { 
             var item = _context.Mentor.Find(id);
             _context.Mentor.Remove(item);
             _context.SaveChanges();
-
         }
+            catch(Exception)
+            {
+                throw;
+            }
 
-        public List<Mentor> GetAll()
+
+}
+
+public List<Mentor> GetAll()
         {
+            try
+            {
+
+            
             return _context.Mentor.ToList();
+            }
+            catch (Exception)
+            {
+                throw;
+            }
         }
 
         public Mentor GetById(long id)
         {
+            try
+            { 
             return _context.Mentor.Find(id);
-
         }
+            catch(Exception)
+            {
+                throw;
+            }
+
+
+}
 
         public void UpdateMentor(Mentor item)
         {
-            _context.Entry(item).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
-            _context.SaveChanges();
+            try
+            {
+                _context.Entry(item).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+                _context.SaveChanges();
+            }
+
+            catch(Exception)
+            {
+                throw;
+            }
+       
+
         }
         public void UpdateMentorPassword(User item)
         {
-            _context.Entry(item).State = EntityState.Modified;
-            _context.SaveChanges();
+            try
+            {
+                _context.Entry(item).State = EntityState.Modified;
+                _context.SaveChanges();
+            }
+
+            catch (Exception)
+            {
+                throw;
+            }
+          
+
+
         }
         ////To Search for mentor by user
         //public List<Mentor> SearchMentor(string MentorSkills)
@@ -61,26 +115,45 @@ namespace MOD.UserService.Repository
 
         public void BlockMentor(long Id)
         {
-            var item = _context.Mentor.Find(Id);
-            if (item.Active == true)
+            try
             {
-                item.Active = !(item.Active);
+                var item = _context.Mentor.Find(Id);
+                if (item.Active == true)
+                {
+                    item.Active = !(item.Active);
 
+                }
+                _context.Entry(item).State = EntityState.Modified;
+                _context.SaveChanges();
             }
-            _context.Entry(item).State = EntityState.Modified;
-            _context.SaveChanges();
+
+            catch (Exception)
+            {
+                throw;
+            }
+
+     
         }
 
         public void UnBlockMentor(long Id)
         {
-            var item = _context.Mentor.Find(Id);
-            if (item.Active == false)
+            try
             {
-                item.Active = !(item.Active);
+                var item = _context.Mentor.Find(Id);
+                if (item.Active == false)
+                {
+                    item.Active = !(item.Active);
 
+                }
+                _context.Entry(item).State = EntityState.Modified;
+                _context.SaveChanges();
             }
-            _context.Entry(item).State = EntityState.Modified;
-            _context.SaveChanges();
+
+            catch (Exception)
+            {
+                throw;
+            }
+     
         }
 
     }

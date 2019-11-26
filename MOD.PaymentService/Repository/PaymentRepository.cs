@@ -16,13 +16,31 @@ namespace MOD.PaymentService.Repository
         }
         public void AddPayment(Payment item)
         {
-            _context.Payment.Add(item);
-            _context.SaveChanges();
+            try
+            {
+                _context.Payment.Add(item);
+                _context.SaveChanges();
+            }
+
+            catch (Exception)
+            {
+                throw;
+            }
+         
         }
         public void UpdatePayment(Payment item)
         {
-            _context.Entry(item).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
-            _context.SaveChanges();
+            try
+            {
+                _context.Entry(item).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+                _context.SaveChanges();
+            }
+
+            catch (Exception)
+            {
+                throw;
+            }
+          
         }
     }
 }

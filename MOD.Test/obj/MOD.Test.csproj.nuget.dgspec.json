@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.Test\\MOD.Test.csproj": {}
+    "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.Test\\MOD.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj": {
+    "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj",
         "projectName": "MOD.AuthenticateService",
-        "projectPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj",
-        "packagesPath": "C:\\Users\\steff\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\obj\\",
+        "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\steff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://nuget.org/api/v2/": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
@@ -38,6 +38,10 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
             "Microsoft.AspNetCore.Cors": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -56,9 +60,21 @@
               "target": "Package",
               "version": "[3.0.0, )"
             },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.9.5, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.6.0, )"
             }
           },
           "imports": [
@@ -83,17 +99,17 @@
         }
       }
     },
-    "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.PaymentService\\MOD.PaymentService.csproj": {
+    "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.PaymentService\\MOD.PaymentService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.PaymentService\\MOD.PaymentService.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.PaymentService\\MOD.PaymentService.csproj",
         "projectName": "MOD.PaymentService",
-        "projectPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.PaymentService\\MOD.PaymentService.csproj",
-        "packagesPath": "C:\\Users\\steff\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.PaymentService\\obj\\",
+        "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.PaymentService\\MOD.PaymentService.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.PaymentService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\steff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -101,7 +117,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://nuget.org/api/v2/": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
@@ -135,6 +151,10 @@
               "target": "Package",
               "version": "[3.0.0, )"
             },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.9.5, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.0.0, )"
@@ -162,17 +182,17 @@
         }
       }
     },
-    "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.TechnologyService\\MOD.TechnologyService.csproj": {
+    "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.TechnologyService\\MOD.TechnologyService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.TechnologyService\\MOD.TechnologyService.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.TechnologyService\\MOD.TechnologyService.csproj",
         "projectName": "MOD.TechnologyService",
-        "projectPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.TechnologyService\\MOD.TechnologyService.csproj",
-        "packagesPath": "C:\\Users\\steff\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.TechnologyService\\obj\\",
+        "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.TechnologyService\\MOD.TechnologyService.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.TechnologyService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\steff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -180,7 +200,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://nuget.org/api/v2/": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
@@ -214,6 +234,10 @@
               "target": "Package",
               "version": "[3.0.0, )"
             },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.9.5, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.0.0, )"
@@ -241,17 +265,17 @@
         }
       }
     },
-    "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.Test\\MOD.Test.csproj": {
+    "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.Test\\MOD.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.Test\\MOD.Test.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.Test\\MOD.Test.csproj",
         "projectName": "MOD.Test",
-        "projectPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.Test\\MOD.Test.csproj",
-        "packagesPath": "C:\\Users\\steff\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.Test\\obj\\",
+        "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.Test\\MOD.Test.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\steff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -259,25 +283,25 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://nuget.org/api/v2/": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj": {
-                "projectPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj"
+              "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.AuthenticateService\\MOD.AuthenticateService.csproj"
               },
-              "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.PaymentService\\MOD.PaymentService.csproj": {
-                "projectPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.PaymentService\\MOD.PaymentService.csproj"
+              "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.PaymentService\\MOD.PaymentService.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.PaymentService\\MOD.PaymentService.csproj"
               },
-              "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.TechnologyService\\MOD.TechnologyService.csproj": {
-                "projectPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.TechnologyService\\MOD.TechnologyService.csproj"
+              "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.TechnologyService\\MOD.TechnologyService.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.TechnologyService\\MOD.TechnologyService.csproj"
               },
-              "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.TrainingService\\MOD.TrainingService.csproj": {
-                "projectPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.TrainingService\\MOD.TrainingService.csproj"
+              "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.TrainingService\\MOD.TrainingService.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.TrainingService\\MOD.TrainingService.csproj"
               },
-              "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.UserService\\MOD.UserService.csproj": {
-                "projectPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.UserService\\MOD.UserService.csproj"
+              "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.UserService\\MOD.UserService.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.UserService\\MOD.UserService.csproj"
               }
             }
           }
@@ -334,17 +358,17 @@
         }
       }
     },
-    "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.TrainingService\\MOD.TrainingService.csproj": {
+    "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.TrainingService\\MOD.TrainingService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.TrainingService\\MOD.TrainingService.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.TrainingService\\MOD.TrainingService.csproj",
         "projectName": "MOD.TrainingService",
-        "projectPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.TrainingService\\MOD.TrainingService.csproj",
-        "packagesPath": "C:\\Users\\steff\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.TrainingService\\obj\\",
+        "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.TrainingService\\MOD.TrainingService.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.TrainingService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\steff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -352,7 +376,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://nuget.org/api/v2/": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
@@ -386,6 +410,10 @@
               "target": "Package",
               "version": "[3.0.0, )"
             },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.9.5, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.0.0, )"
@@ -413,17 +441,17 @@
         }
       }
     },
-    "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.UserService\\MOD.UserService.csproj": {
+    "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.UserService\\MOD.UserService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.UserService\\MOD.UserService.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.UserService\\MOD.UserService.csproj",
         "projectName": "MOD.UserService",
-        "projectPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.UserService\\MOD.UserService.csproj",
-        "packagesPath": "C:\\Users\\steff\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steff\\Documents\\GitHub\\MOD_BackEnd\\MOD.UserService\\obj\\",
+        "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.UserService\\MOD.UserService.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\MOD_BackEnd\\MOD.UserService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\steff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -431,7 +459,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://nuget.org/api/v2/": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
@@ -468,6 +496,10 @@
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[3.0.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.9.5, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",

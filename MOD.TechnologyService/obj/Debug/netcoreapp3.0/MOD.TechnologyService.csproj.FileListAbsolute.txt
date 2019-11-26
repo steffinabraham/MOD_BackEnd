@@ -551,7 +551,6 @@ C:\Users\Dell\Documents\GitHub\Steffin Dotnet project\DotnetTJ\MOD_Backend\MOD.T
 C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.TechnologyService\obj\Debug\netcoreapp3.0\MOD.TechnologyService.csprojAssemblyReference.cache
 C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.TechnologyService\obj\Debug\netcoreapp3.0\staticwebassets\MOD.TechnologyService.StaticWebAssets.Manifest.cache
 C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.TechnologyService\obj\Debug\netcoreapp3.0\staticwebassets\MOD.TechnologyService.StaticWebAssets.xml
-C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.TechnologyService\obj\Debug\netcoreapp3.0\MOD.TechnologyService.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.TechnologyService\obj\Debug\netcoreapp3.0\MOD.TechnologyService.AssemblyInfoInputs.cache
 C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.TechnologyService\obj\Debug\netcoreapp3.0\MOD.TechnologyService.AssemblyInfo.cs
 C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.TechnologyService\obj\Debug\netcoreapp3.0\MOD.TechnologyService.dll
@@ -768,3 +767,4 @@ C:\Users\steff\Documents\GitHub\MOD_BackEnd\MOD.TechnologyService\obj\Debug\netc
 C:\Users\steff\Documents\GitHub\MOD_BackEnd\MOD.TechnologyService\obj\Debug\netcoreapp3.0\MOD.TechnologyService.csproj.CopyComplete
 C:\Users\steff\Documents\GitHub\MOD_BackEnd\MOD.TechnologyService\obj\Debug\netcoreapp3.0\MOD.TechnologyService.dll
 C:\Users\steff\Documents\GitHub\MOD_BackEnd\MOD.TechnologyService\obj\Debug\netcoreapp3.0\MOD.TechnologyService.pdb
+C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.TechnologyService\obj\Debug\netcoreapp3.0\MOD.TechnologyService.MvcApplicationPartsAssemblyInfo.cache

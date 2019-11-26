@@ -661,7 +661,6 @@ C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.UserService\bin\Debug\netcoreapp3
 C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.UserService\obj\Debug\netcoreapp3.0\MOD.UserService.csprojAssemblyReference.cache
 C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.UserService\obj\Debug\netcoreapp3.0\staticwebassets\MOD.UserService.StaticWebAssets.Manifest.cache
 C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.UserService\obj\Debug\netcoreapp3.0\staticwebassets\MOD.UserService.StaticWebAssets.xml
-C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.UserService\obj\Debug\netcoreapp3.0\MOD.UserService.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.UserService\obj\Debug\netcoreapp3.0\MOD.UserService.AssemblyInfoInputs.cache
 C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.UserService\obj\Debug\netcoreapp3.0\MOD.UserService.AssemblyInfo.cs
 C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.UserService\obj\Debug\netcoreapp3.0\MOD.UserService.RazorTargetAssemblyInfo.cache
@@ -780,3 +779,4 @@ C:\Users\steff\Documents\GitHub\MOD_BackEnd\MOD.UserService\obj\Debug\netcoreapp
 C:\Users\steff\Documents\GitHub\MOD_BackEnd\MOD.UserService\obj\Debug\netcoreapp3.0\MOD.UserService.csproj.CopyComplete
 C:\Users\steff\Documents\GitHub\MOD_BackEnd\MOD.UserService\obj\Debug\netcoreapp3.0\MOD.UserService.dll
 C:\Users\steff\Documents\GitHub\MOD_BackEnd\MOD.UserService\obj\Debug\netcoreapp3.0\MOD.UserService.pdb
+C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.UserService\obj\Debug\netcoreapp3.0\MOD.UserService.MvcApplicationPartsAssemblyInfo.cache

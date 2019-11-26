@@ -13,43 +13,98 @@ namespace MOD.UserService.Repository
         private readonly UserContext _context;
         public UserRepository(UserContext context)
         {
+
             _context = context;
         }
         public void AddUser(User item)
         {
-            _context.User.Add(item);
-            _context.SaveChanges();
+            try
+            {
+                _context.User.Add(item);
+                _context.SaveChanges();
+            }
+
+            catch (Exception)
+            {
+                throw;
+            }
+    
         }
 
         public void DeleteUser(long id)
         {
-            var item = _context.User.Find(id);
-            _context.User.Remove(item);
-            _context.SaveChanges();
+            try
+            {
+                var item = _context.User.Find(id);
+                _context.User.Remove(item);
+                _context.SaveChanges();
+
+            }
+
+            catch (Exception)
+            {
+                throw;
+            }
 
         }
 
         public List<User> GetAll()
         {
-            return _context.User.ToList();
+            try
+            {
+                return _context.User.ToList();
+            }
+
+            catch (Exception)
+            {
+                throw;
+            }
+        
         }
 
         public User GetById(long id)
         {
-            return _context.User.Find(id);
+            try
+            {
+                return _context.User.Find(id);
+            }
+
+            catch (Exception)
+            {
+                throw;
+            }
+       
 
         }
 
         public void UpdateUser(User item)
         {
-            _context.Entry(item).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
-            _context.SaveChanges();
+            try
+            {
+                _context.Entry(item).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+                _context.SaveChanges();
+            }
+
+            catch (Exception)
+            {
+                throw;
+            }
+        
         }
 
         public void UpdateUserPassword(User item)
         {
-            _context.Entry(item).State = EntityState.Modified;
-            _context.SaveChanges();
+            try
+            {
+                _context.Entry(item).State = EntityState.Modified;
+                _context.SaveChanges();
+            }
+
+            catch (Exception)
+            {
+                throw;
+            }
+       
         }
 
 
@@ -57,8 +112,17 @@ namespace MOD.UserService.Repository
 
         public List<Mentor> SearchMentor(string Skill)
         {
-            //return _context.Mentors.Find(MentorSkills);
-            return _context.Mentor.Where(i => i.MentorSkills == Skill).ToList();
+            try
+            {
+                //return _context.Mentors.Find(MentorSkills);
+                return _context.Mentor.Where(i => i.MentorSkills == Skill).ToList();
+            }
+
+            catch (Exception)
+            {
+                throw;
+            }
+
 
         }
 
@@ -66,26 +130,44 @@ namespace MOD.UserService.Repository
 
         public void BlockUser(long Id)
         {
-            var item = _context.User.Find(Id);
-            if (item.Active == true)
+            try
             {
-                item.Active = !(item.Active);
+                var item = _context.User.Find(Id);
+                if (item.Active == true)
+                {
+                    item.Active = !(item.Active);
 
+                }
+                _context.Entry(item).State = EntityState.Modified;
+                _context.SaveChanges();
             }
-            _context.Entry(item).State = EntityState.Modified;
-            _context.SaveChanges();
+
+            catch (Exception)
+            {
+                throw;
+            }
+
         }
 
         public void UnBlockUser(long Id)
         {
-            var item = _context.User.Find(Id);
-            if (item.Active == false)
+            try
             {
-                item.Active =!(item.Active);
+                var item = _context.User.Find(Id);
+                if (item.Active == false)
+                {
+                    item.Active = !(item.Active);
 
+                }
+                _context.Entry(item).State = EntityState.Modified;
+                _context.SaveChanges();
             }
-            _context.Entry(item).State = EntityState.Modified;
-            _context.SaveChanges();
+
+            catch (Exception)
+            {
+                throw;
+            }
+  
         }
     }
 }

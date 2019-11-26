@@ -16,47 +16,80 @@ namespace MOD.TechnologyService.Repository
         }
         public void AddTechnology(Technology item)
         {
-            _context.Technology.Add(item);
-            _context.SaveChanges();
+            try
+            {
+                _context.Technology.Add(item);
+                _context.SaveChanges();
+            }
+
+            catch (Exception)
+            {
+                throw;
+            }
+       
         }
 
         public void DeleteTechnology(long id)
         {
-            var item = _context.Technology.Find(id);
-            _context.Technology.Remove(item);
-            _context.SaveChanges();
+            try
+            {
+                var item = _context.Technology.Find(id);
+                _context.Technology.Remove(item);
+                _context.SaveChanges();
+            }
+
+            catch (Exception)
+            {
+                throw;
+            }
+ 
 
         }
 
         public List<Technology> GetAll()
         {
-            return _context.Technology.ToList();
+            try
+            {
+                return _context.Technology.ToList();
+            }
+
+            catch (Exception)
+            {
+                throw;
+            }
+        
         }
 
         public Technology GetById(long id)
         {
-            return _context.Technology.Find(id);
+            try
+            {
+                return _context.Technology.Find(id);
+            }
+
+            catch (Exception)
+            {
+                throw;
+            }
+           
 
         }
 
         public void UpdateTechnology(Technology item)
         {
-            _context.Entry(item).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
-            _context.SaveChanges();
+            try
+            {
+                _context.Entry(item).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+                _context.SaveChanges();
+            }
+
+            catch (Exception)
+            {
+                throw;
+            }
+      
         }
-        //public void UpdateTechnologyPassword(User item)
-        //{
-        //    _context.Entry(item).State = EntityState.Modified;
-        //    _context.SaveChanges();
-        //}
-        ////To Search for Technology by user
-        //public List<Technology> SearchTechnology(string TechnologySkills)
-        //{
-        //    //return _context.Technologys.Find(TechnologySkills);
-
-        //    return _context.Technology.Where(i => i.TechnologySkills == TechnologySkills).ToList();
-
-        //}
+      
 
         public void BlockTechnology(long Id)
         {

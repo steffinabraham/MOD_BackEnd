@@ -651,7 +651,6 @@ C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.PaymentService\bin\Debug\netcorea
 C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.PaymentService\obj\Debug\netcoreapp3.0\MOD.PaymentService.csprojAssemblyReference.cache
 C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.PaymentService\obj\Debug\netcoreapp3.0\staticwebassets\MOD.PaymentService.StaticWebAssets.Manifest.cache
 C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.PaymentService\obj\Debug\netcoreapp3.0\staticwebassets\MOD.PaymentService.StaticWebAssets.xml
-C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.PaymentService\obj\Debug\netcoreapp3.0\MOD.PaymentService.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.PaymentService\obj\Debug\netcoreapp3.0\MOD.PaymentService.AssemblyInfoInputs.cache
 C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.PaymentService\obj\Debug\netcoreapp3.0\MOD.PaymentService.AssemblyInfo.cs
 C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.PaymentService\obj\Debug\netcoreapp3.0\MOD.PaymentService.RazorTargetAssemblyInfo.cache
@@ -768,3 +767,4 @@ C:\Users\steff\Documents\GitHub\MOD_BackEnd\MOD.PaymentService\obj\Debug\netcore
 C:\Users\steff\Documents\GitHub\MOD_BackEnd\MOD.PaymentService\obj\Debug\netcoreapp3.0\MOD.PaymentService.csproj.CopyComplete
 C:\Users\steff\Documents\GitHub\MOD_BackEnd\MOD.PaymentService\obj\Debug\netcoreapp3.0\MOD.PaymentService.dll
 C:\Users\steff\Documents\GitHub\MOD_BackEnd\MOD.PaymentService\obj\Debug\netcoreapp3.0\MOD.PaymentService.pdb
+C:\Users\Dell\Documents\GitHub\MOD_BackEnd\MOD.PaymentService\obj\Debug\netcoreapp3.0\MOD.PaymentService.MvcApplicationPartsAssemblyInfo.cache
